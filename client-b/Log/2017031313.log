@@ -1,0 +1,2 @@
+[2017-03-13 13:32:45] [INFO] [request]=/ [request_id]=58c62efdd41ae [class]={"module":"","controller":"Index","action":"index"} [method]=get [params]=[] [stream]= [cookie]=[] [ip]=192.168.14.239
+[2017-03-13 13:32:45] [INFO] [response]= [type]= [request_id]=58c62efdd41ae [run time]=18ms [run memory]=0kb
